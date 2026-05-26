@@ -56,6 +56,9 @@ Analyzing large election datasets manually makes it difficult to identify voting
 (https://github.com/islavathgowtham/India-General-Election-2024-Dashboard/blob/main/Landing%20Page.png)
 
 2.Overview Analysis:Displays an overall summary of election results, including alliance seat distribution and key KPIs.
+
+(https://github.com/islavathgowtham/India-General-Election-2024-Dashboard/blob/main/Overview%20Analysis.png)
+
 3.State Demographics Analysis:Presents state-level election insights with seat counts, majority alliances, and geographical analysis.
 4.Political Landscape by State:Shows state-wise political performance and party seat distribution across alliances.
 5.Constituency Analysis:Analyzes constituency-level election results including candidate performance, vote share, and winning margins.
