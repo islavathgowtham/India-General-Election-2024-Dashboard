@@ -52,4 +52,5 @@ Analyzing large election datasets manually makes it difficult to identify voting
 
 ## Screenshots / Demos
 1.Landing Page:Acts as the main navigation hub for accessing all dashboard pages and insights.
+
 (https://github.com/islavathgowtham/India-General-Election-2024-Dashboard/blob/main/Landing%20Page.png)
